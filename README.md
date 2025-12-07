@@ -1,67 +1,82 @@
-# 💼 Kiran Kumar A - Portfolio
+# 💼 K Niranjan - Portfolio
 
-This is the personal portfolio website of **Kiran Kumar A**, showcasing my projects, skills, and contact information. Built using HTML, CSS, JavaScript, React, and data visualization tools like Tableau and Python libraries.
+This is the personal portfolio website of **K Niranjan**, showcasing my projects, skills, achievements, and contact information. Built using HTML, CSS, JavaScript with smooth animations.
 
 ---
 
-## 🌐 Live Portfolio
+## 🌐 About Me
 
-Access the portfolio live at:  
-👉 [https://kiran-26-sys.github.io/PortFolio/](https://kiran-26-sys.github.io/PortFolio/)
+I'm a final-year engineering student who builds simple, practical applications. I work with software and data tools to turn ideas into clean, working solutions. Always learning and improving through real projects.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Smart Bus Scheduler  
-A route optimization tool that uses data to identify hotspot regions and optimize public bus scheduling.  
-**Tech Stack:** Python, Flask, Pandas, NumPy, Folium, SQLite
+### 1. Smart Eco-Advisor App
+An AI-powered personal sustainability companion that gives daily eco-friendly recommendations using weather, AQI, and carbon intensity data. Includes carbon footprint tracking, challenges, progress graphs, and chatbot support.  
+**Tech Stack:** React Native, Node.js, MongoDB, AI  
+🔗 [GitHub Repository](https://github.com/Vrindha-Nandhini-V/smart-eco-adviser)
 
-### 2. AI Financial Advisor  
-Automatically reads bank SMS alerts to categorize expenses, provide financial summaries, and recommend savings.  
-**Tech Stack:** Python, LangChain, OpenAI API, SQLite, Flask
+### 2. Game On – Badminton Court Booking System
+Developed a full-stack web platform for badminton court booking with an admin panel & authentication. Engineered a React.js interface to prevent scheduling conflicts and streamline reservations.  
+**Tech Stack:** React.js, JavaScript, Firebase, HTML, CSS  
+🔗 [GitHub Repository](https://github.com/kniranjan18/GameOn)
 
-### 3. E-Commerce Sales Analysis  
-Analyzed ABC company’s sales data to provide visual and statistical insights.  
-**Tech Stack:** Python, Pandas, Matplotlib, Seaborn
+### 3. Disease Prediction System
+Created a high-accuracy machine learning model to predict diseases based on user-input symptoms. Integrated the model into a user-friendly web interface for real-time predictions and results display.  
+**Tech Stack:** Python, Machine Learning, Flask, HTML, CSS
 
-### 4. COVID-19 Data Dashboard  
-Visualized COVID trends globally and locally using Tableau dashboards.  
-**Tech Stack:** Tableau
-
-### 5. Sports Arena Booking System  
-A web app that enables users to book courts (e.g., badminton) in real-time with Firebase-based backend.  
-**Tech Stack:** React.js, JavaScript, Firebase, HTML, CSS, Python
-
-### 6. Portfolio Website  
-Responsive portfolio website built to showcase my work and resume.  
-**Tech Stack:** HTML, CSS, JavaScript, AOS.js
+### 4. E-Commerce Sales Analysis
+Analysed large-scale e-commerce sales data to uncover key patterns and optimize marketing strategies. Developed a Python-based data pipeline and created visual dashboards to present actionable insights.  
+**Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
+🔗 [GitHub Repository](https://github.com/kniranjan18/E-CommerceSaleAnalysis)
 
 ---
 
-## 📁 Folder Structure
+## 🛠 Technical Skills
 
+- **Programming:** Java, C
+- **Web Technologies:** HTML, CSS, React.js, React Native
+- **Backend:** Node.js, Flask
+- **Databases:** SQL (MySQL), NoSQL (MongoDB, Firebase)
+- **Data Analysis:** Pandas, Matplotlib, Seaborn
+- **Tools & Concepts:** Git, GitHub, SDLC, Data Structures and Algorithms
+
+---
+
+## 🏆 Achievements
+
+- **Ideathon Winner, 2024:** Developed an impactful project focused on energy reduction
+- **Research Paper Presentation, 2025:** Presented at an IEEE-affiliated conference on AI in business
+
+---
+
+## 📜 Certifications
+
+- [Project Management Fundamentals](https://www.credly.com/badges/7088964e-89d6-4b66-ad98-8a183ce9838a/public_url)
+- [Data Analytics Essential](https://www.credly.com/badges/b6569021-d005-4aa1-b497-d7bcb1821e08/public_url)
+- [Google Agile Essentials V1](https://www.credly.com/badges/edca435f-3ae6-4c0a-91f6-921fc7df78f3/public_url)
+- [Machine Learning with Python - Level 1](https://www.credly.com/badges/def7acce-256b-4e5f-9a8f-1191f1e045b8/public_url)
 
 ---
 
 ## 📞 Contact
 
-📧 Email: appojikirankumar@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/kirankumar)  
-🐙 [GitHub](https://github.com/kiran-26-sys)  
-📷 [Instagram](https://instagram.com/kirankumar)
+📍 Location: Bengaluru  
+📧 Email: niranjankrm18@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/niranjankrm)  
+🐙 [GitHub](https://github.com/kniranjan18)
 
 ---
 
 ## 🛠 Technologies Used
 
-- HTML5 / CSS3 / JavaScript  
-- React.js  
-- Python / Flask  
-- Firebase  
-- SQLite  
-- Tableau  
-- AOS.js
+- HTML5 / CSS3 / JavaScript
+- AOS.js (Animations)
+- React.js
+- Python
+- Firebase
+- MySQL / MongoDB
 
 ---
 
